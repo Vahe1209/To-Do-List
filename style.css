@@ -1,0 +1,31 @@
+li input {
+  border: 0px;
+  outline: none;
+  width: 100%;
+  margin: 5px;
+}
+
+ul {
+  max-width: 600px;
+  padding: 0;
+}
+
+.list-group-item {
+  display: flex !important;
+}
+
+#addTask {
+  width: 600px;
+}
+
+.myCheck {
+  width: 25px;
+  height: 25px;
+}
+
+#buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 600px;
+}
